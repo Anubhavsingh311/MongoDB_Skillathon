@@ -38,6 +38,15 @@ The goal is to:
 - ⏳ RAG with MongoDB
 
 ---
+# 🏆 Progress Tracker
+
+| Course | Status | Notes |
+|----------|---------|--------|
+| MongoDB Basics for Students | 🟢 Completed | ✅ |
+| AI Data Strategy for MongoDB | 🟢 Completed | ✅ |
+| AI Agents with MongoDB | 🟡 In Progress | ⏳ |
+| Vector Search Fundamentals | ⚪ Not Started | ❌ |
+| RAG with MongoDB | ⚪ Not Started | ❌ |
 # 🤝 Contributions
 
 This repository primarily serves as a personal learning journal, but suggestions, improvements, and discussions are always welcome.
