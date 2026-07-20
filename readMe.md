@@ -29,11 +29,11 @@ The goal is to:
 ## Beginner Track
 
 - ✅ MongoDB Basics for Students
-- ⏳ AI Data Strategy for MongoDB
+- ✅ AI Data Strategy for MongoDB
 
 ## Advanced Track
 
-- ⏳ AI Agents with MongoDB
+- ✅ AI Agents with MongoDB
 - ⏳ Vector Search Fundamentals
 - ⏳ RAG with MongoDB
 
@@ -44,8 +44,8 @@ The goal is to:
 |---------|---------|--------|---------|
 | MongoDB Basics for Students | 🟢 Completed | ✅ | [View Badge](https://www.credly.com/badges/5a305a24-94e3-4647-9d25-88b7c3e9d86c/public_url) |
 | AI Data Strategy for MongoDB | 🟢 Completed | ✅ | [View Badge](https://www.credly.com/badges/b005b61b-54df-4054-842e-a656871d9e7e/public_url) |
-| AI Agents with MongoDB | 🟡 In Progress | 🚧 | N/A |
-| Vector Search Fundamentals | ⚪ Not Started | ❌ | N/A |
+| AI Agents with MongoDB | 🟢 Completed | ✅ | [View Badge](https://www.credly.com/badges/52a636b8-5918-4bfb-baf6-66bcdec7ab75/public_url) |
+| Vector Search Fundamentals | 🟡 In Progress | 🚧 | N/A |
 | RAG with MongoDB | ⚪ Not Started | ❌ | N/A |
 
 ---
