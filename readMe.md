@@ -38,15 +38,17 @@ The goal is to:
 - ⏳ RAG with MongoDB
 
 ---
-# 🏆 Progress Tracker
+## 🏆 Progress Tracker
 
-| Course | Status | Notes |
-|----------|---------|--------|
-| MongoDB Basics for Students | 🟢 Completed | ✅ |
-| AI Data Strategy for MongoDB | 🟢 Completed | ✅ |
-| AI Agents with MongoDB | 🟡 In Progress | ⏳ |
-| Vector Search Fundamentals | ⚪ Not Started | ❌ |
-| RAG with MongoDB | ⚪ Not Started | ❌ |
+| Course | Status | Notes | Badges |
+|---------|---------|--------|---------|
+| MongoDB Basics for Students | 🟢 Completed | ✅ | [View Badge](https://www.credly.com/badges/5a305a24-94e3-4647-9d25-88b7c3e9d86c/public_url) |
+| AI Data Strategy for MongoDB | 🟢 Completed | ✅ | [View Badge](https://www.credly.com/badges/b005b61b-54df-4054-842e-a656871d9e7e/public_url) |
+| AI Agents with MongoDB | 🟡 In Progress | 🚧 | N/A |
+| Vector Search Fundamentals | ⚪ Not Started | ❌ | N/A |
+| RAG with MongoDB | ⚪ Not Started | ❌ | N/A |
+
+---
 # 🤝 Contributions
 
 This repository primarily serves as a personal learning journal, but suggestions, improvements, and discussions are always welcome.
