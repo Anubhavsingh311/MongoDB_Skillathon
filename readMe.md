@@ -35,7 +35,7 @@ The goal is to:
 
 - ✅ AI Agents with MongoDB
 - ✅ Vector Search Fundamentals
-- ⏳ RAG with MongoDB
+- ✅ RAG with MongoDB
 
 ---
 ## 🏆 Progress Tracker
@@ -46,7 +46,7 @@ The goal is to:
 | AI Data Strategy for MongoDB | 🟢 Completed | ✅ | [View Badge](https://www.credly.com/badges/b005b61b-54df-4054-842e-a656871d9e7e/public_url) |
 | AI Agents with MongoDB | 🟢 Completed | ✅ | [View Badge](https://www.credly.com/badges/52a636b8-5918-4bfb-baf6-66bcdec7ab75/public_url) |
 | Vector Search Fundamentals | 🟢 Completed | ✅ | [View Badge](https://www.credly.com/badges/cdaa6283-1ba7-467c-8e95-27bd681d8888/public_url) |
-| RAG with MongoDB |  🟡 In Progress | 🚧 | N/A |
+| RAG with MongoDB |  🟢 Completed | ✅ | [View Badge](https://www.credly.com/badges/5450aef4-ae22-41e8-ae88-ce7935398ffb/public_url) |
 
 ---
 # 🤝 Contributions
